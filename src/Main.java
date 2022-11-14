@@ -34,6 +34,6 @@ public class Main {
                 }
             }
         }
-        System.out.println("Найдено "+ count + " повторений");
+        System.out.println("Найдено "+ count + " повторений в тексте");
     }
 }
