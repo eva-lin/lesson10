@@ -1,5 +1,6 @@
 import java.io.*;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -33,5 +34,13 @@ public class Main {
             }
         }
         System.out.println("Найдено "+ count + " повторений в тексте");
+
+        //Задание 3
+        int[] result = new int[9];
+        System.out.println("Таблица умножения");
+        for (int i = 1; i <10 ; i++) {
+            result = Multiplication.multiplication(i);
+            System.out.println(Arrays.toString(result));
+        }
     }
 }
