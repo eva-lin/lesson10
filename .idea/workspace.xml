@@ -1,22 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e818dd1-b644-4595-b85c-ad482415c672" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson10.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/voina i mir 1 tom.txt" afterDir="false" />
+    <list default="true" id="6e818dd1-b644-4595-b85c-ad482415c672" name="Changes" comment="Урок 10. Сollections framework. &#10;Задание 2. Сделать тоже самое с помощью класса Scanner">
+      <change afterPath="$PROJECT_DIR$/src/Multiplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -28,12 +34,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\evali\IdeaProjects\lesson10" />
@@ -50,6 +56,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -62,6 +70,35 @@
       <option name="presentableId" value="Default" />
       <updated>1668075426760</updated>
     </task>
+    <task id="LOCAL-00001" summary="Урок 10. Сollections framework. &#10;Задание 1. Посчитать вхождения на слово «Страдание» (вне зависимости от склонения и регистра) в книге «Война и Мир том 1» и выложить в Git">
+      <created>1668432839028</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668432839028</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Урок 10. Сollections framework. &#10;Задание 1. Посчитать вхождения на слово «Страдание» (вне зависимости от склонения и регистра) в книге «Война и Мир том 1» и выложить в Git">
+      <created>1668432941967</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668432941967</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Урок 10. Сollections framework. &#10;Задание 1. Посчитать вхождения на слово «Страдание» (вне зависимости от склонения и регистра) в книге «Война и Мир том 1» и выложить в Git">
+      <created>1668449226696</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668449226696</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Урок 10. Сollections framework. &#10;Задание 2. Сделать тоже самое с помощью класса Scanner">
+      <created>1668451939484</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668451939484</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -74,5 +111,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Урок 10. Сollections framework. &#10;Задание 1. Посчитать вхождения на слово «Страдание» (вне зависимости от склонения и регистра) в книге «Война и Мир том 1» и выложить в Git" />
+    <MESSAGE value="Урок 10. Сollections framework. &#10;Задание 2. Сделать тоже самое с помощью класса Scanner" />
+    <option name="LAST_COMMIT_MESSAGE" value="Урок 10. Сollections framework. &#10;Задание 2. Сделать тоже самое с помощью класса Scanner" />
   </component>
 </project>
